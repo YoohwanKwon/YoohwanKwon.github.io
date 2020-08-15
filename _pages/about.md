@@ -6,6 +6,8 @@ image: yoohwan.jpg
 ---
 
 Hi, my name is Yoohwan Kwon. 
+
+CV: [pdf](../Yoohwan_CV.pdf)
 ***
 
 #### MS student
