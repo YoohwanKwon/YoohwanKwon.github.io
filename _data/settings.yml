@@ -1,7 +1,8 @@
 #-------------------------------
 # General Site Settings
 title: YH's blog
-logo: ml_icon.svg # You can add own logo.
+logo: ml_icon.svg 
+# 아이콘 제작자 <a href="https://www.flaticon.com/kr/authors/becris" title="Becris">Becris</a> from <a href="https://www.flaticon.com/kr/" title="Flaticon"> www.flaticon.com</a> 
 description: Yoohwan personal blog
 
 
@@ -11,22 +12,22 @@ author:
   name: Yoohwan Kwon
   image: yoohwan.jpg
   say-hello: Hello, I’m <strong>Yoohwan Kwon</strong>
-  bio: I'm MS.student at Yonsei University. Research about <strong>Machine Learning</strong>, <strong>Speech Signal Processing</strong>, and <strong>Speaker recognition</strong>.
+  bio: I'm MS.student at Yonsei University. | I'm interested in about <strong>Machine Learning</strong>, <strong>Speech Signal Processing</strong>, and <strong>Speaker recognition</strong>.
 
 #-------------------------------
 # Contact links
 #twitter: https://twitter.com/ # Add your Twitter handle
-facebook: https://facebook.com/ # Add your Facebook handle
 #dribbble: https://dribbble.com/ # Add your Dribbble handle
 #instagram: https://instagram.com/ # Add your Instagram handle
 #pinterest: https://pinterest.com/ # Add your Pinterest handle
-github : https://github.com
-linkedin: https://linkedin.com
+facebook: https://facebook.com/YoohwanKon  
+github : https://github.com/YoohwanKwon
+linkedin: https://www.linkedin.com/in/yoohwan-kwon-5594741b3/
 
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: yoohwan # add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
