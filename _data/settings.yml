@@ -10,7 +10,7 @@ description: Yoohwan personal blog
 # Author Settings
 author:
   name: Yoohwan Kwon
-  image: yoohwan.jpg
+  image: post_image.jpg
   say-hello: Hello, I’m <strong>Yoohwan Kwon</strong>
   bio: I'm MS.student at Yonsei University. 
        I'm interested in about <strong>Machine Learning</strong>, <strong>Speech Signal Processing</strong>, and <strong>Speaker recognition</strong>.

@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: yoohwan.jpg
+image: abc.jpg
 ---
 
 Hi, my name is Yoohwan Kwon. 
