@@ -10,7 +10,6 @@ This page lists the results of my research.
 Publication
 
 
-| First Header  | Second Header | Third Header         |
 |          2020               |
 | :-------------------------: |
 | ***Cross attentive pooling for speaker verification* <br>  S.M. Kye, **Y. Kwon**, J. S. Chung <br> Arxiv <br> [Paper](https://arxiv.org/abs/2008.05983) |
