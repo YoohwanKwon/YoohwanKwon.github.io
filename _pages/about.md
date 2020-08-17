@@ -8,6 +8,7 @@ image: abc.jpg
 Hi, my name is Yoohwan Kwon. 
 
 CV: [pdf](pdf/Yoohwan_CV.pdf)
+CV: [pdf2](https://yoohwankwon.github.io/pdf/Yoohwan_CV.pdf)
 
 #### MS student
 <small>2019 - presnet</small>
