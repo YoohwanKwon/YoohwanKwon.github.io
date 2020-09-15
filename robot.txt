@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yoohwankwon.github.io/sitemap.xml
