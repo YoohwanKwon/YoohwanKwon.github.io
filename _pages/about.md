@@ -10,7 +10,7 @@ Hello, I'm Yoohwan Kwon. I'm interested in Machine learing and Speech signal pro
 Especially, My research topic is speaker recognition, and you can see the result of my research on **publication** page. <br>
 I am a person who is curious and interested in various fields such as society, research, science, economy, etc. <br>
 
-CV: [PDF](https://yoohwankwon.github.io/pdf/Yoohwan_CV.pdf)
+CV: [PDF](https://yoohwankwon.github.io/pdf/Yoohwan_CV_201030.pdf)
 
 
 ### Education
@@ -29,7 +29,7 @@ ECE, University of Seoul <br>
 ### Experience
 ***
 #### Naver Corp
-<small>July,2020 - present</small> <br>
+<small>July,2020 - Oct,2020</small> <br>
 Intern, Clova AI <br>
 
 #### Hyundai Motors
