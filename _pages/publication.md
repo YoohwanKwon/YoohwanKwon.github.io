@@ -5,14 +5,20 @@ permalink: /publication/
 image:
 ---
 
-Publication
-
-***
-**Cross attentive pooling for speaker verification** <br>  S.M. Kye, **Y. Kwon**, J. S. Chung <br> Arxiv,2020 <br> [Paper](https://arxiv.org/abs/2008.05983) 
-
+**Publication**
 ***
 
-**Intra-class variation reduction of speaker representation in disentanglement framework** <br>  **Y. Kwon**, S. W. Chung, H.G. Kang <br> Interspeech,2020 <br> [Paper](https://arxiv.org/abs/2008.01348) 
+**LEARNING IN YOUR VOICE: NON-PARALLEL VOICE CONVERSION BASED ONSPEAKER CONSISTENCY LOSS** <br> **Y. Kwon**,Soo-Whan Chung, Hee-Soo Heo, Hong-Goo Kang <br> submitted to ICASSP,2021 <br> [Paper] will be release 
+
+***
+**The ins and outs of speaker recognition: lessons from VoxSRC 2020** <br> **Y. Kwon**,Hee-Soo Heo, Bong-Jin Lee, Joon Son Chung <br> submitted to ICASSP,2021 <br> [Paper](https://arxiv.org/abs/2010.15809)
+
+***
+**Cross attentive pooling for speaker verification** <br>  Seong Min. Kye, **Yoohwan Kwon**, Joon Son Chung <br> Arxiv,2020 <br> [Paper](https://arxiv.org/abs/2008.05983) 
+
+***
+
+**Intra-class variation reduction of speaker representation in disentanglement framework** <br>  **Yoohwan Kwon**, Soo-Whan Chung, Hong-Goo Kang <br> Interspeech,2020 <br> [Paper](https://arxiv.org/abs/2008.01348) 
 
 ***
 
