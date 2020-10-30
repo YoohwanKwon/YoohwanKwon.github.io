@@ -8,7 +8,7 @@ image:
 **Publication**
 ***
 
-**LEARNING IN YOUR VOICE: NON-PARALLEL VOICE CONVERSION BASED ONSPEAKER CONSISTENCY LOSS** <br> **Y. Kwon**,Soo-Whan Chung, Hee-Soo Heo, Hong-Goo Kang <br> submitted to ICASSP,2021 <br> [Paper]() [Demo](https://yoohwankwon.github.io/Learning_in_your_voice/)
+**LEARNING IN YOUR VOICE: NON-PARALLEL VOICE CONVERSION BASED ONSPEAKER CONSISTENCY LOSS** <br> **Yoohwan Kwon**,Soo-Whan Chung, Hee-Soo Heo, Hong-Goo Kang <br> submitted to ICASSP,2021 <br> [Paper]() [Demo](https://yoohwankwon.github.io/Learning_in_your_voice/)
 ***
 **The ins and outs of speaker recognition: lessons from VoxSRC 2020** <br> **Y. Kwon**,Hee-Soo Heo, Bong-Jin Lee, Joon Son Chung <br> submitted to ICASSP,2021 <br> [Paper](https://arxiv.org/abs/2010.15809)
 
