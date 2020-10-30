@@ -9,7 +9,7 @@ image:
 
 ***
 
-**LEARNING IN YOUR VOICE: NON-PARALLEL VOICE CONVERSION BASED ONSPEAKER CONSISTENCY LOSS** <br> **Yoohwan Kwon**,Soo-Whan Chung, Hee-Soo Heo, Hong-Goo Kang <br> submitted to ICASSP,2021 <br> [Paper]() [Demo](https://yoohwankwon.github.io/Learning_in_your_voice/)
+**Learning in your voice: non-parallel voice conversion based on speaker consistency loss** <br> **Yoohwan Kwon**,Soo-Whan Chung, Hee-Soo Heo, Hong-Goo Kang <br> submitted to ICASSP,2021 <br> [Paper]() [Demo](https://yoohwankwon.github.io/Learning_in_your_voice/)
 
 ***
 
