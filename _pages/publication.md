@@ -9,7 +9,7 @@ image:
 
 ***
 
-**Learning in your voice: non-parallel voice conversion based on speaker consistency loss** <br> **Yoohwan Kwon**,Soo-Whan Chung, Hee-Soo Heo, Hong-Goo Kang <br> submitted to ICASSP,2021 <br> [Paper]() [Demo](https://yoohwankwon.github.io/Learning_in_your_voice/)
+**Learning in your voice: non-parallel voice conversion based on speaker consistency loss** <br> **Yoohwan Kwon**,Soo-Whan Chung, Hee-Soo Heo, Hong-Goo Kang <br> submitted to ICASSP,2021 <br> [Paper](https://arxiv.org/abs/2011.02168) [Demo](https://yoohwankwon.github.io/Learning_in_your_voice/)
 
 ***
 
@@ -17,7 +17,7 @@ image:
 
 ***
 
-**Cross attentive pooling for speaker verification** <br>  Seong Min. Kye, **Yoohwan Kwon**, Joon Son Chung <br> Arxiv,2020 <br> [Paper](https://arxiv.org/abs/2008.05983) 
+**Cross attentive pooling for speaker verification** <br>  Seong Min. Kye, **Yoohwan Kwon**, Joon Son Chung <br> IEEE Spoken Language Technology(SLT) Workshop,2021 <br> [Paper](https://arxiv.org/abs/2008.05983) 
 
 ***
 
