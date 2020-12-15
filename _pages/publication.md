@@ -17,7 +17,7 @@ image:
 
 ***
 
-**Cross attentive pooling for speaker verification** <br>  Seong Min. Kye, **Yoohwan Kwon**, Joon Son Chung <br> IEEE Spoken Language Technology(SLT) Workshop,2021 <br> [Paper](https://arxiv.org/abs/2008.05983) 
+**Cross attentive pooling for speaker verification** <br>  Seong Min. Kye, **Yoohwan Kwon**, Joon Son Chung <br> IEEE Spoken Language Technology(SLT) Workshop,2021 <br> [Paper](https://arxiv.org/abs/2008.05983) [Code](https://github.com/YoohwanKwon/CAP)
 
 ***
 
