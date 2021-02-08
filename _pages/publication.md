@@ -9,11 +9,11 @@ image:
 
 ***
 
-**Learning in your voice: non-parallel voice conversion based on speaker consistency loss** <br> **Yoohwan Kwon**,Soo-Whan Chung, Hee-Soo Heo, Hong-Goo Kang <br> submitted to ICASSP,2021 <br> [Paper](https://arxiv.org/abs/2011.02168) [Demo](https://yoohwankwon.github.io/Learning_in_your_voice/)
+**Learning in your voice: non-parallel voice conversion based on speaker consistency loss** <br> **Yoohwan Kwon**,Soo-Whan Chung, Hee-Soo Heo, Hong-Goo Kang <br> Arxiv <br> [Paper](https://arxiv.org/abs/2011.02168) [Demo](https://yoohwankwon.github.io/Learning_in_your_voice/)
 
 ***
 
-**The ins and outs of speaker recognition: lessons from VoxSRC 2020** <br> **Yoohwan Kwon**,Hee-Soo Heo, Bong-Jin Lee, Joon Son Chung <br> submitted to ICASSP,2021 <br> [Paper](https://arxiv.org/abs/2010.15809)
+**The ins and outs of speaker recognition: lessons from VoxSRC 2020** <br> **Yoohwan Kwon**,Hee-Soo Heo, Bong-Jin Lee, Joon Son Chung <br> ICASSP,2021 <br> [Paper](https://arxiv.org/abs/2010.15809)
 
 ***
 
